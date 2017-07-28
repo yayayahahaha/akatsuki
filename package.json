@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "config":{
+	"nuxt":{
+		"port":3001
+	}
+  },
+  "scripts":{
+	"dev":"nuxt"
+  },
   "dependencies": {
     "nuxt": "^1.0.0-rc2"
   }
