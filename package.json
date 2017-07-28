@@ -1,19 +1,21 @@
 {
-  "name": "nuxt",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "start": "http-server -a 0.0.0.0 -p 8080",
-  "config":{
-	"nuxt":{
-		"port":8080,
-		"host": "0.0.0.0"
-	}
-  },
-  "scripts":{
-	"dev":"nuxt"
-  },
-  "dependencies": {
-    "nuxt": "^1.0.0-rc2"
+ "name": "nuxt",
+ "version": "1.0.0",
+ "main": "index.js",
+ "license": "MIT",
+ "start": "http-server -a 0.0.0.0 -p 8080",
+ "config": {
+  "nuxt": {
+   "port": 8080,
+   "host": "0.0.0.0"
   }
+ },
+ "scripts": {
+  "dev": "nuxt"
+ },
+ "dependencies": {
+  "axios": "^0.16.2",
+  "lodash": "^4.17.4",
+  "nuxt": "^1.0.0-rc2"
+ }
 }
