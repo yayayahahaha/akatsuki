@@ -4,6 +4,10 @@
 	margin: 0px;
 	padding: 0px;
 }
+li, a{
+	text-decoration: none;
+	list-style: none;
+}
 
 body{
 	position: relative;
@@ -87,9 +91,31 @@ $rwd: 768px;
 
 	.main_container{
 		display: inline-block;
-		outline: 3px solid red;
-		width: 80%;
+		width: 90%;
 		text-align: left;
-		
+
+		outline: 1px solid blue;
+	}
+}
+
+$nine-block-size:300px;
+.nine_block_container {
+	width: $nine-block-size;
+	display: inline-block;
+	.nine_block{
+
+		border: 1px solid rgba(0,0,0,0.5) ;
+
+		width: $nine-block-size / 3;
+		padding-top: $nine-block-size / 3;
+		float: left;
+		@include box-sizing(border-box);
+
+		background-image: url(https://www.google.com.tw/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png);
+		background-repeat: no-repeat;
+		background-size: 300px;
+		background-position: 5% 0%;
+		background-attachment: fixed;
+
 	}
 }

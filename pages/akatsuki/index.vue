@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div id="app">
 		<div class="background-class">
 			<template v-for='time in backTimes'>
 				<span :class="item.className" v-for='item in backWord' v-text='item.char'></span>
@@ -8,12 +8,23 @@
 
 		<div class="full_container">
 			<div class="main_container">
-				<p v-text="msg" v-for='time in 300'></p>
+
+				<div class="nine_block_container">
+					<li class="nine_block"></li>
+					<li class="nine_block"></li>
+					<li class="nine_block"></li>
+					<li class="nine_block"></li>
+					<li class="nine_block"></li>
+					<li class="nine_block"></li>
+					<li class="nine_block"></li>
+					<li class="nine_block"></li>
+					<li class="nine_block"></li>
+				</div>
+
 				<p>useless css code like top without position in hire page (https://aktsk.com.tw/tw_recruit/interview/day01_engineer.html)</p>
 				<p>url with .html, which means without router or any front-end framework?</p>
 			</div>
 		</div>
-
 	</div>
 </template>
 
@@ -99,6 +110,7 @@
 		},
 		head: function(context) {
 			return {
+				title:'Akatsuki Resume',
 				link:[{
 					rel:"stylesheet" ,
 					type:"text/css" ,
