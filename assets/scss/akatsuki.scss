@@ -10,9 +10,13 @@ body{
 	background: #fff;
 	max-height: 100vh;
 	overflow: hidden;
+	font-family: "Microsoft JhengHei";
 }
 
 $back-word-size: 16px;
+$m-back-word-size: 32px;
+
+$rwd: 768px;
 
 .background-class{
 	position: absolute;
@@ -22,11 +26,11 @@ $back-word-size: 16px;
 	width: 100%;
 	max-width: 100vw;
 
-	word-break: break-word;
-
-	color: rgba(0,0,0,0.2);
-
+	opacity: .2;
+	color: rgba(0,0,0,0.4);
+	
 	pointer-events:none;
+	word-break: break-word;
 
 	.back_word{
 		font-size: $back-word-size;
@@ -39,6 +43,38 @@ $back-word-size: 16px;
 			display: inline-block;
 			@include transform(translateX(7px) translateY(7px));
 		}
+
+		&.green1{
+			font-weight: bolder;
+			color: rgb(0,157,133);
+		}
+		&.green2{
+			font-weight: bolder;
+			color: rgb(70,176,53);
+		}
+
+		&.purple{
+			font-weight: bolder;
+			color: rgb(217,80,151);
+		}
+
+		&.blue1{
+			font-weight: bolder;
+			color: rgb(0,169,228);
+		}
+		&.blue2{
+			font-weight: bolder;
+			color: rgb(0,134,205);
+		}
+		&.red{
+			font-weight: bolder;
+			color: rgb(232,57,47);
+		}
+		&.yellow{
+			font-weight: bolder;
+			color: rgb(253,208,0);
+		}
+
 	}
 	
 }
