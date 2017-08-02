@@ -8,7 +8,6 @@
 
 		<div class="full_container">
 			<div class="main_container">
-				<p v-text="msg" v-for='time in 300'></p>
 				<p>useless css code like top without position in hire page (https://aktsk.com.tw/tw_recruit/interview/day01_engineer.html)</p>
 				<p>url with .html, which means without router or any front-end framework?</p>
 			</div>
@@ -30,15 +29,16 @@
 		},
 		data: function() {
 			function messArray(array) {
-			  var currentIndex = array.length, temporaryValue, randomIndex;
-			  while (0 !== currentIndex) {
-			    randomIndex = Math.floor(Math.random() * currentIndex);
-			    currentIndex -= 1;
-			    temporaryValue = array[currentIndex];
-			    array[currentIndex] = array[randomIndex];
-			    array[randomIndex] = temporaryValue;
-			  }
-			  return array;
+				var currentIndex = array.length,
+					temporaryValue, randomIndex;
+				while (0 !== currentIndex) {
+					randomIndex = Math.floor(Math.random() * currentIndex);
+					currentIndex -= 1;
+					temporaryValue = array[currentIndex];
+					array[currentIndex] = array[randomIndex];
+					array[randomIndex] = temporaryValue;
+				}
+				return array;
 			}
 			var char = 'qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP0123456789',
 				tempArray = [], bigArray = [];
@@ -85,7 +85,6 @@
 				})
 
 			return {
-				msg:'hello',
 				backWord: bigArray,
 				backTimes: 1
 			}
