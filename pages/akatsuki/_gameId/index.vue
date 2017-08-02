@@ -25,9 +25,9 @@
 		    		title: context.msg.gameId
 		    	};
 	    	}else{
-	    		console.log("nothing");
+	    		console.log(context);
 		    	return {
-		    		title: 'basic title'
+		    		title: this.msg
 		    	}
 	    	}
 	    }
