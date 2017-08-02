@@ -1,6 +1,9 @@
 <template>
 	<div>
 		<p v-text="msg"></p>
+		<p>useless css code like top without position in hire page (https://aktsk.com.tw/tw_recruit/interview/day01_engineer.html)</p>
+		<p>url with .html, which means without router or any front-end framework?</p>
+
 	</div>
 </template>
 
@@ -10,15 +13,10 @@
 	export default {
 		asyncData: function(context) {
 
-			var array = [];
-			if (context) {
-				for(var key in context){
-					console.log(key);
-				}
-			}
 			return {
 				params: context.params
 			};
+
 		},
 		data: function() {
 			return {
@@ -26,11 +24,6 @@
 			}
 		},
 		head: function(context) {
-
-			if (context) {
-				console.log(context.params);
-			}
-
 			return {
 				link:[{
 					rel:"stylesheet" ,
