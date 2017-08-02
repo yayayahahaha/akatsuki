@@ -1,0 +1,5 @@
+nuxt.config.js' head is an object, can't use function return solution to get context
+
+how to use context's params in head?
+use it with asyncData function, then pass it into data.
+in head function, use it with "this.key"
