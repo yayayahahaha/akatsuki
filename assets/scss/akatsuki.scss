@@ -82,12 +82,14 @@ $rwd: 768px;
 	width: 100vw;
 	height: 100vh;
 	overflow: auto;
-	
+
 	text-align: center;
 
 	.main_container{
 		display: inline-block;
 		outline: 3px solid red;
 		width: 80%;
+		text-align: left;
+		
 	}
 }

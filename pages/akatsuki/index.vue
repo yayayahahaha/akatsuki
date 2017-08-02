@@ -93,10 +93,8 @@
 		mounted: function() {
 			window.word = document.querySelector(".background-class");
 			window.h = window.innerHeight;
-			console.log(h, word.offsetHeight);
 			if (h > word.offsetHeight) {
 				this.backTimes = Math.ceil(2 * h/word.offsetHeight);
-				console.log(this.backTimes);
 			}
 		},
 		head: function(context) {
