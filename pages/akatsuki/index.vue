@@ -26,7 +26,15 @@
 				<div class="view view3">
 					<img src="/images/profile2.jpg" alt="profile">
 				</div>
-				<div class="view view4">view4 </div>
+				<div class="view view4">
+					<div class="content html">
+						<section>
+							<h2>HTML</h2>
+							<p>語意化標籤</p>
+							<p>Emmet 使用</p>
+						</section>
+					</div>
+				</div>
 				<div class="view view5">view5 </div>
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
@@ -41,7 +49,17 @@
 				<div class="view view3">
 					<img src="/images/timeline.png" alt="timeline">
 				</div>
-				<div class="view view4">view4 </div>
+				<div class="view view4">
+					<div class="content css">
+						<section>
+							<h2>CSS</h2>
+							<p>跨瀏覽器處理</p>
+							<p>偽元素</p>
+							<p>複合選擇器</p>
+							<p>SCSS with compass</p>
+						</section>
+					</div>
+				</div>
 				<div class="view view5">view5 </div>
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
@@ -55,7 +73,16 @@
 				<div class="view view3">
 					<info1></info1>
 				</div>
-				<div class="view view4">view4 </div>
+				<div class="view view4">
+					<div class="content js">
+						<section>
+							<h2>Javascript</h2>
+							<p>熟稔原生操作物件語法</p>
+							<p>非同步的事件呼叫</p>
+							<p>prototyping</p>
+						</section>
+					</div>
+				</div>
 				<div class="view view5">view5 </div>
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
@@ -69,7 +96,13 @@
 				<div class="view view3">
 					<info2></info2>
 				</div>
-				<div class="view view4">view4 </div>
+				<div class="view view4">
+					<div class="content skill">
+						<section>
+							<h1>Skill 技能欄</h1>
+						</section>
+					</div>
+				</div>
 				<div class="view view5">view5 </div>
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
