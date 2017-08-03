@@ -1,6 +1,6 @@
 module.exports = {
 	head: {
-		title: 'Hello'
+		title: 'FLyC'
 	},
 	build: {
 		vendor: []
