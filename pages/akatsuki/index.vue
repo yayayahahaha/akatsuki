@@ -51,9 +51,9 @@
 			            <div class="content">
 			            <span class="show_color">我</span>
 			            <span class="hide_color">是</span>
-			            <span class="hide_color">鍾</span>
-			            <span class="hide_color">維</span>
-			            <span class="show_color">聖</span>
+			            <span class="hide_color name_style">鍾</span>
+			            <span class="hide_color name_style">維</span>
+			            <span class="show_color name_style">聖</span>
 			            <br>
 			            <span class="hide_color">致</span>
 			            <span class="hide_color">力</span>
@@ -153,9 +153,9 @@
 			            <div class="content">
 			            <span class="hide_color">我</span>
 			            <span class="show_color">是</span>
-			            <span class="hide_color">鍾</span>
-			            <span class="hide_color">維</span>
-			            <span class="hide_color">聖</span>
+			            <span class="hide_color name_style">鍾</span>
+			            <span class="hide_color name_style">維</span>
+			            <span class="hide_color name_style">聖</span>
 			            <br>
 			            <span class="hide_color">致</span>
 			            <span class="hide_color">力</span>
@@ -254,9 +254,9 @@
 			            <div class="content">
 			            <span class="hide_color">我</span>
 			            <span class="hide_color">是</span>
-			            <span class="show_color">鍾</span>
-			            <span class="hide_color">維</span>
-			            <span class="hide_color">聖</span>
+			            <span class="show_color name_style">鍾</span>
+			            <span class="hide_color name_style">維</span>
+			            <span class="hide_color name_style">聖</span>
 			            <br>
 			            <span class="show_color">致</span>
 			            <span class="hide_color">力</span>
@@ -355,9 +355,9 @@
 			            <div class="content">
 			            <span class="hide_color">我</span>
 			            <span class="hide_color">是</span>
-			            <span class="hide_color">鍾</span>
-			            <span class="show_color">維</span>
-			            <span class="hide_color">聖</span>
+			            <span class="hide_color name_style">鍾</span>
+			            <span class="show_color name_style">維</span>
+			            <span class="hide_color name_style">聖</span>
 			            <br>
 			            <span class="hide_color">致</span>
 			            <span class="show_color">力</span>
