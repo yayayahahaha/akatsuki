@@ -30,8 +30,10 @@
 					<div class="content html">
 						<section>
 							<h2>HTML</h2>
-							<p>語意化標籤</p>
-							<p>Emmet 使用</p>
+							<div class="hide_n_show">
+								<p>語意化標籤</p>
+								<p>Emmet 使用</p>
+							</div>
 						</section>
 					</div>
 				</div>
@@ -53,10 +55,12 @@
 					<div class="content css">
 						<section>
 							<h2>CSS</h2>
-							<p>跨瀏覽器處理</p>
-							<p>偽元素</p>
-							<p>複合選擇器</p>
-							<p>SCSS with compass</p>
+							<div class="hide_n_show">
+								<p>跨瀏覽器處理</p>
+								<p>偽元素</p>
+								<p>複合選擇器</p>
+								<p>SCSS with compass</p>
+							</div>
 						</section>
 					</div>
 				</div>
@@ -77,9 +81,11 @@
 					<div class="content js">
 						<section>
 							<h2>Javascript</h2>
-							<p>熟稔原生操作物件語法</p>
-							<p>非同步的事件呼叫</p>
-							<p>prototyping</p>
+							<div class="hide_n_show">
+								<p>熟稔原生操作物件語法</p>
+								<p>非同步的事件呼叫</p>
+								<p>prototyping</p>
+							</div>
 						</section>
 					</div>
 				</div>
