@@ -87,10 +87,8 @@ $rwd: 768px;
 
 	.main_container{
 		display: inline-block;
-		outline: 3px solid red;
 		width: 90%;
 		text-align: left;
-		
 	}
 }
 .perspectiveView {
@@ -101,56 +99,6 @@ $rwd: 768px;
     overflow-y: auto;
     overflow-x: hidden;
 
-    .layer {
-        position: relative;
-        width: 100vw;
-        // height: 400vh;
-        position: absolute;
-        top: 0px;
-        left: 0px;
-        @include transform-origin(50%, 50vh);
-
-        /* for span color: */
-        /* scroll down notice text */
-        .view1{
-        	/* scroll down notice text */
-        	font-size: 36px;
-        }
-      	span.show_color{
-      		color: rgba(0,0,0,0.5);
-      	}
-      	span.hide_color{
-      		color: transparent;
-      	}
-        /* for span color end */
-
-
-        .view {
-            position: absolute;
-            text-align: center;
-            width: 100vw;
-            height: 100vh;
-
-            .content {
-                pointer-events: none;
-                text-align: center;
-                display: inline-block;
-                width: 80vw;
-                height: 90vh;
-                line-height: 3rem;
-                font-size: 1.5rem;
-                color: transparent;
-                vertical-align: middle;
-                overflow: hidden;
-            }
-            &:after {
-                content: "";
-                display: inline-block;
-                vertical-align: middle;
-                height: 100%;
-            }
-        }
-    }
     .layer1 {
         @include transform(translateZ(875px) scale(0.125));
 
@@ -158,6 +106,7 @@ $rwd: 768px;
             top: 0 * 800vh;
         }
         .view2 {
+        	/* self introduce part*/
             top: 1 * 800vh;
         }
         .view3 {
@@ -215,7 +164,15 @@ $rwd: 768px;
             top: 0 * 400vh;
         }
         .view2 {
+        	/* self introduce part*/
             top: 1 * 400vh;
+
+            img{
+            	margin-left: 10%;
+            	width: 40%;
+            	float: left;
+            }
+
         }
         .view3 {
             top: 2 * 400vh;
@@ -272,6 +229,7 @@ $rwd: 768px;
             top: 0 * 200vh;
         }
         .view2 {
+        	/* self introduce part*/
             top: 1 * 200vh;
         }
         .view3 {
@@ -329,6 +287,7 @@ $rwd: 768px;
             top: 0 * 100vh;
         }
         .view2 {
+        	/* self introduce part*/
             top: 1 * 100vh;
         }
         .view3 {
@@ -379,6 +338,67 @@ $rwd: 768px;
             top: 7 * 100vh;
         }
     }
+
+    .layer {
+        position: relative;
+        width: 100vw;
+        // height: 400vh;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        @include transform-origin(50%, 50vh);
+
+
+      	span.show_color{
+      		color: rgba(0,0,0,0.5);
+      	}
+      	span.hide_color{
+      		color: transparent;
+      	}
+        /* for span color end */
+
+        .view {
+            position: absolute;
+            text-align: center;
+            width: 100vw;
+            height: 100vh;
+
+            &.view1{
+            	font-size: 36px;
+            }
+
+            &.view2 {
+            	.content{
+            		width: 40%;
+            		height: auto;
+            		float: right;
+            		margin-top: 10%;
+            		margin-right: 5%;
+            	}
+            }
+
+            .content {
+                pointer-events: none;
+                text-align: center;
+                display: inline-block;
+                width: 80vw;
+                height: 90vh;
+                line-height: 3rem;
+                font-size: 1.5rem;
+                color: transparent;
+                color: black;
+                vertical-align: middle;
+                overflow: hidden;
+            }
+            &:after {
+                content: "";
+                display: inline-block;
+                vertical-align: middle;
+                height: 100%;
+            }
+        }
+    }
+
 }
 .btns {
     position: fixed;
