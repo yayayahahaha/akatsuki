@@ -293,7 +293,7 @@ $rwd: 768px;
                 }
             }
 
-            &.view4 {
+            &.view4, &.view5 {
                 .content{
                     pointer-events:auto;
                     position: absolute;
@@ -347,6 +347,74 @@ $rwd: 768px;
                         &:hover{
                             &:after{
                                 background-color: rgba(253,208,0,0.5);
+                            }
+                        }
+                    }
+                    &.vue{
+                        top: 0px;
+                        right: 0px;
+                        width: 58%;
+                        height: 38%;
+                        @include background(
+                            linear-gradient(45deg, rgba(0,157,133,0.8), rgba(0,0,0,0)),
+                            url('/images/vue.png') no-repeat
+                            );
+                        background-size: auto, 50% auto;
+                        background-position: 0px 0px, 0px 0%;
+                        &:hover{
+                            &:after{
+                                background-color: rgba(0,157,133,0.5);
+                            }
+                        }
+                    }
+                    &.nuxt{
+                        top: 0px;
+                        left: 0px;
+                        width: 40%;
+                        height: 58%;
+                        @include background(
+                            linear-gradient(45deg, rgba(0,157,133,0.8), rgba(0,0,0,0)),
+                            url('/images/nuxt.png') no-repeat
+                        );
+                        background-size: auto, 75% auto;
+                        background-position: 0px 0px, 0px 0%;
+                        &:hover{
+                            &:after{
+                                background-color: rgba(0,157,133,0.5);
+                            }
+                        }
+                    }
+                    &.svg{
+                        bottom: 0px;
+                        right: 0px;
+                        width: 38%;
+                        height: 58%;
+                        @include background(
+                            linear-gradient(45deg,rgba(253,208,0,0.8), rgba(0,0,0,0)),
+                            url('/images/svg.png') no-repeat
+                        );
+                        background-size: auto, 75% auto;
+                        background-position: 0px 0px, 0px -20%;
+                        &:hover{
+                            &:after{
+                                background-color:rgba(253,208,0,0.5);
+                            }
+                        }
+                    }
+                    &.canvas{
+                        bottom: 0px;
+                        left: 0px;
+                        width: 58%;
+                        height: 38%;
+                        @include background(
+                            linear-gradient(45deg, rgba(194,248,79,0.8), rgba(0,0,0,0)),
+                            url('/images/canvas.png') no-repeat
+                        );
+                        background-size: auto, 50% auto;
+                        background-position: 0px 0px, 0px -20%;
+                        &:hover{
+                            &:after{
+                                background-color: rgba(194,248,79,0.5);
                             }
                         }
                     }

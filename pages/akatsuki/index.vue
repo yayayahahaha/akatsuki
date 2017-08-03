@@ -37,7 +37,13 @@
 						</section>
 					</div>
 				</div>
-				<div class="view view5">view5 </div>
+				<div class="view view5">
+					<div class="content canvas">
+						<section>
+							<h2>Canvas</h2>
+						</section>
+					</div>
+				</div>
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
@@ -64,7 +70,13 @@
 						</section>
 					</div>
 				</div>
-				<div class="view view5">view5 </div>
+				<div class="view view5">
+					<div class="content svg">
+						<section>
+							<h2>SVG</h2>
+						</section>
+					</div>
+				</div>
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
@@ -89,7 +101,13 @@
 						</section>
 					</div>
 				</div>
-				<div class="view view5">view5 </div>
+				<div class="view view5">
+					<div class="content vue">
+						<section>
+							<h2>Vue</h2>
+						</section>
+					</div>
+				</div>
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
@@ -109,7 +127,13 @@
 						</section>
 					</div>
 				</div>
-				<div class="view view5">view5 </div>
+				<div class="view view5">
+					<div class="content nuxt">
+						<section>
+							<h2>NUXT</h2>
+						</section>
+					</div>
+				</div>
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
