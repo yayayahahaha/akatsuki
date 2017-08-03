@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	}
 
 	/* down below is content part, ignore it for temporally */
-	return;
+	// return;
 
 	/* seperate sentence */
 	var sentences = document.querySelectorAll(".content");

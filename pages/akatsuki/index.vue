@@ -15,11 +15,37 @@
 			    <button class="btn3 btn"></button>
 			    <button class="btn4 btn"></button>
 			    <button class="btn5 btn"></button>
+			    <button class="btn6 btn"></button>
+			    <button class="btn7 btn"></button>
 			</div>
 			<div class="perspectiveView">
 			    <div class="layer layer1">
-			        <div class="view view1">                    
-			            Scroll Down
+			        <div class="view view1">
+			        	<span class="show_color">s</span>
+			        	<span class="hide_color">c</span>
+			        	<span class="hide_color">r</span>
+			        	<span class="hide_color">o</span>
+			        	<span class="show_color">l</span>
+			        	<span class="hide_color">l</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">d</span>
+			        	<span class="show_color">o</span>
+			        	<span class="hide_color">w</span>
+			        	<span class="hide_color">n</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">a</span>
+			        	<span class="show_color">n</span>
+			        	<span class="hide_color">d</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">h</span>
+			        	<span class="hide_color">a</span>
+			        	<span class="show_color">v</span>
+			        	<span class="hide_color">e</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">f</span>
+			        	<span class="hide_color">u</span>
+			        	<span class="show_color">n</span>
+			        	<span class="hide_color">!</span>
 			        </div>
 			        <div class="view view2">
 			            <div class="content">I couldn't take it couldn't stand another minute couldn't bear another day without you in it all of the joy that I had known for my life was stripped away from me the minute that you died to have you in my life was all I ever wanted but now without you I'm a soul forever haunted can't help but feel that I had taken you for granted no way in hell that I can ever comprehend this I wasn't dreaming when they told me you were gone I was wide awake and feeling that they had to be wrong how could you leave me when you swore that you would stay now i'm trapped inside a nightmare every single fucking day it's like a movie but there's not a happy ending every scene fades black and there's no pretending this little fairy tale doesn't seem to end well theres no knight in shining armor who will wake me from the spell I know you didn't plan this you tried to do what's right but in the middle of this madness i'm the one you left to win this fight red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you I know you're broken down by anger and by sadness you feel I left you in a world that's full of madness wish I could talk to you if only for a minute make you understand the reasons why I did it I wanna tell you that you're all that ever mattered want you to know that for eternity i'm shattered I tried so hard just to protect you but I failed to and in a prison of abandonment i've jailed you I never planned that I would leave you there alone I was sure that I would see you when I made it back home and all the times I swore that it would be okay now i'm nothing but a liar and you're thrown into the fray this bedtime story ends with misery ever after the pages are torn and there's no final chapter I didn't have a choice I did what I had to do I made a sacrifice but forced a bigger sacrifice on you I know you've lived a nightmare I caused you so much pain but baby please don't do what I did I don't want you to waste your life in vain red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you you're not the only one who needed me I thought you understood you were the one I needed and you left me as I always feared you would would I change it if I could? it doesn't matter how the petals scatter now every nightmare just discloses it's your blood that's red like roses and no matter what I do nothing ever takes the place of you red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you
@@ -37,6 +63,31 @@
 			    </div>
 			    <div class="layer layer2">
 			        <div class="view view1">                    
+			        	<span class="hide_color">s</span>
+			        	<span class="show_color">c</span>
+			        	<span class="hide_color">r</span>
+			        	<span class="hide_color">o</span>
+			        	<span class="hide_color">l</span>
+			        	<span class="show_color">l</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">d</span>
+			        	<span class="hide_color">o</span>
+			        	<span class="show_color">w</span>
+			        	<span class="hide_color">n</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">a</span>
+			        	<span class="hide_color">n</span>
+			        	<span class="show_color">d</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">h</span>
+			        	<span class="hide_color">a</span>
+			        	<span class="hide_color">v</span>
+			        	<span class="show_color">e</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">f</span>
+			        	<span class="hide_color">u</span>
+			        	<span class="hide_color">n</span>
+			        	<span class="show_color">!</span>
 			        </div>
 			        <div class="view view2">
 			            <div class="content">I couldn't take it couldn't stand another minute couldn't bear another day without you in it all of the joy that I had known for my life was stripped away from me the minute that you died to have you in my life was all I ever wanted but now without you I'm a soul forever haunted can't help but feel that I had taken you for granted no way in hell that I can ever comprehend this I wasn't dreaming when they told me you were gone I was wide awake and feeling that they had to be wrong how could you leave me when you swore that you would stay now i'm trapped inside a nightmare every single fucking day it's like a movie but there's not a happy ending every scene fades black and there's no pretending this little fairy tale doesn't seem to end well theres no knight in shining armor who will wake me from the spell I know you didn't plan this you tried to do what's right but in the middle of this madness i'm the one you left to win this fight red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you I know you're broken down by anger and by sadness you feel I left you in a world that's full of madness wish I could talk to you if only for a minute make you understand the reasons why I did it I wanna tell you that you're all that ever mattered want you to know that for eternity i'm shattered I tried so hard just to protect you but I failed to and in a prison of abandonment i've jailed you I never planned that I would leave you there alone I was sure that I would see you when I made it back home and all the times I swore that it would be okay now i'm nothing but a liar and you're thrown into the fray this bedtime story ends with misery ever after the pages are torn and there's no final chapter I didn't have a choice I did what I had to do I made a sacrifice but forced a bigger sacrifice on you I know you've lived a nightmare I caused you so much pain but baby please don't do what I did I don't want you to waste your life in vain red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you you're not the only one who needed me I thought you understood you were the one I needed and you left me as I always feared you would would I change it if I could? it doesn't matter how the petals scatter now every nightmare just discloses it's your blood that's red like roses and no matter what I do nothing ever takes the place of you red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you
@@ -54,6 +105,31 @@
 			    </div>
 			    <div class="layer layer3">
 			        <div class="view view1">                    
+			        	<span class="hide_color">s</span>
+			        	<span class="hide_color">c</span>
+			        	<span class="show_color">r</span>
+			        	<span class="hide_color">o</span>
+			        	<span class="hide_color">l</span>
+			        	<span class="hide_color">l</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">d</span>
+			        	<span class="hide_color">o</span>
+			        	<span class="hide_color">w</span>
+			        	<span class="show_color">n</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">a</span>
+			        	<span class="hide_color">n</span>
+			        	<span class="hide_color">d</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="show_color">h</span>
+			        	<span class="hide_color">a</span>
+			        	<span class="hide_color">v</span>
+			        	<span class="hide_color">e</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="show_color">f</span>
+			        	<span class="hide_color">u</span>
+			        	<span class="hide_color">n</span>
+			        	<span class="hide_color">!</span>
 			        </div>
 			        <div class="view view2">
 			            <div class="content">I couldn't take it couldn't stand another minute couldn't bear another day without you in it all of the joy that I had known for my life was stripped away from me the minute that you died to have you in my life was all I ever wanted but now without you I'm a soul forever haunted can't help but feel that I had taken you for granted no way in hell that I can ever comprehend this I wasn't dreaming when they told me you were gone I was wide awake and feeling that they had to be wrong how could you leave me when you swore that you would stay now i'm trapped inside a nightmare every single fucking day it's like a movie but there's not a happy ending every scene fades black and there's no pretending this little fairy tale doesn't seem to end well theres no knight in shining armor who will wake me from the spell I know you didn't plan this you tried to do what's right but in the middle of this madness i'm the one you left to win this fight red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you I know you're broken down by anger and by sadness you feel I left you in a world that's full of madness wish I could talk to you if only for a minute make you understand the reasons why I did it I wanna tell you that you're all that ever mattered want you to know that for eternity i'm shattered I tried so hard just to protect you but I failed to and in a prison of abandonment i've jailed you I never planned that I would leave you there alone I was sure that I would see you when I made it back home and all the times I swore that it would be okay now i'm nothing but a liar and you're thrown into the fray this bedtime story ends with misery ever after the pages are torn and there's no final chapter I didn't have a choice I did what I had to do I made a sacrifice but forced a bigger sacrifice on you I know you've lived a nightmare I caused you so much pain but baby please don't do what I did I don't want you to waste your life in vain red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you you're not the only one who needed me I thought you understood you were the one I needed and you left me as I always feared you would would I change it if I could? it doesn't matter how the petals scatter now every nightmare just discloses it's your blood that's red like roses and no matter what I do nothing ever takes the place of you red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you
@@ -71,6 +147,31 @@
 			    </div>
 			    <div class="layer layer4">
 			        <div class="view view1">                    
+			        	<span class="hide_color">s</span>
+			        	<span class="hide_color">c</span>
+			        	<span class="hide_color">r</span>
+			        	<span class="show_color">o</span>
+			        	<span class="hide_color">l</span>
+			        	<span class="hide_color">l</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="show_color">d</span>
+			        	<span class="hide_color">o</span>
+			        	<span class="hide_color">w</span>
+			        	<span class="hide_color">n</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="show_color">a</span>
+			        	<span class="hide_color">n</span>
+			        	<span class="hide_color">d</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">h</span>
+			        	<span class="show_color">a</span>
+			        	<span class="hide_color">v</span>
+			        	<span class="hide_color">e</span>
+			        	<span class="hide_color">_</span>
+			        	<span class="hide_color">f</span>
+			        	<span class="show_color">u</span>
+			        	<span class="hide_color">n</span>
+			        	<span class="hide_color">!</span>
 			        </div>
 			        <div class="view view2">
 			            <div class="content">I couldn't take it couldn't stand another minute couldn't bear another day without you in it all of the joy that I had known for my life was stripped away from me the minute that you died to have you in my life was all I ever wanted but now without you I'm a soul forever haunted can't help but feel that I had taken you for granted no way in hell that I can ever comprehend this I wasn't dreaming when they told me you were gone I was wide awake and feeling that they had to be wrong how could you leave me when you swore that you would stay now i'm trapped inside a nightmare every single fucking day it's like a movie but there's not a happy ending every scene fades black and there's no pretending this little fairy tale doesn't seem to end well theres no knight in shining armor who will wake me from the spell I know you didn't plan this you tried to do what's right but in the middle of this madness i'm the one you left to win this fight red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you I know you're broken down by anger and by sadness you feel I left you in a world that's full of madness wish I could talk to you if only for a minute make you understand the reasons why I did it I wanna tell you that you're all that ever mattered want you to know that for eternity i'm shattered I tried so hard just to protect you but I failed to and in a prison of abandonment i've jailed you I never planned that I would leave you there alone I was sure that I would see you when I made it back home and all the times I swore that it would be okay now i'm nothing but a liar and you're thrown into the fray this bedtime story ends with misery ever after the pages are torn and there's no final chapter I didn't have a choice I did what I had to do I made a sacrifice but forced a bigger sacrifice on you I know you've lived a nightmare I caused you so much pain but baby please don't do what I did I don't want you to waste your life in vain red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you you're not the only one who needed me I thought you understood you were the one I needed and you left me as I always feared you would would I change it if I could? it doesn't matter how the petals scatter now every nightmare just discloses it's your blood that's red like roses and no matter what I do nothing ever takes the place of you red like roses fills my head with dreams and finds me always closer to the emptiness and sadness that has come to take the place of you

@@ -111,8 +111,16 @@ $rwd: 768px;
         @include transform-origin(50%, 50vh);
 
         /* for span color: */
+        /* scroll down notice text */
+        .view1{
+        	/* scroll down notice text */
+        	font-size: 36px;
+        }
       	span.show_color{
       		color: rgba(0,0,0,0.5);
+      	}
+      	span.hide_color{
+      		color: transparent;
       	}
         /* for span color end */
 
