@@ -16,6 +16,8 @@
 			<button class="btn5 btn"></button>
 			<button class="btn6 btn"></button>
 			<button class="btn7 btn"></button>
+			<button class="btn8 btn"></button>
+			<button class="btn9 btn"></button>
 		</div>
 		<div class="perspectiveView">
 			<div class="layer layer1">
@@ -47,6 +49,7 @@
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
+				<div class="view view9">view9 </div>
 			</div>
 			<div class="layer layer2">
 				<op2></op2>
@@ -80,6 +83,7 @@
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
+				<div class="view view9">view9 </div>
 			</div>
 			<div class="layer layer3">
 				<op3></op3>
@@ -111,6 +115,7 @@
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
+				<div class="view view9">view9 </div>
 			</div>
 			<div class="layer layer4">
 				<op4></op4>
@@ -137,6 +142,7 @@
 				<div class="view view6">view6 </div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
+				<div class="view view9">view9 </div>
 			</div>
 		</div>
 	</div>

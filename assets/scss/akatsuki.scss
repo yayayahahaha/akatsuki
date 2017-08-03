@@ -136,6 +136,9 @@ $rwd: 768px;
         .view8 {
             top: 7 * 800vh;
         }
+        .view9 {
+            top: 8 * 800vh;
+        }
     }
     .layer2 {
         @include transform(translateZ(750px) scale(0.25));
@@ -176,6 +179,9 @@ $rwd: 768px;
         .view8 {
             top: 7 * 400vh;
         }
+        .view9 {
+            top: 8 * 800vh;
+        }
     }
     .layer3 {
         @include transform(translateZ(500px) scale(0.5));
@@ -204,6 +210,9 @@ $rwd: 768px;
         .view8 {
             top: 7 * 200vh;
         }
+        .view9 {
+            top: 8 * 800vh;
+        }
     }
     .layer4 {
         @include transform(translateZ(0px) scale(1));
@@ -231,6 +240,9 @@ $rwd: 768px;
         }
         .view8 {
             top: 7 * 100vh;
+        }
+        .view9 {
+            top: 8 * 800vh;
         }
     }
 
@@ -501,7 +513,7 @@ $rwd: 768px;
 }
 .btns {
     position: fixed;
-    top: 30vh;
+    top: 15vh;
     width: 5vh;
     height: 30vh;
     text-align: center;
