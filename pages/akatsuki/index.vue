@@ -30,7 +30,10 @@
 			            <div class="draw">
 			            </div>
 			        </div>
-			        <div class="view view5"> </div>
+			        <div class="view view5">view5 </div>
+			        <div class="view view6">view6 </div>
+			        <div class="view view7">view7 </div>
+			        <div class="view view8">view8 </div>
 			    </div>
 			    <div class="layer layer2">
 			        <div class="view view1">                    
@@ -44,7 +47,10 @@
 			            <div class="draw">
 			            </div>
 			        </div>
-			        <div class="view view5"> </div>
+			        <div class="view view5">view5 </div>
+			        <div class="view view6">view6 </div>
+			        <div class="view view7">view7 </div>
+			        <div class="view view8">view8 </div>
 			    </div>
 			    <div class="layer layer3">
 			        <div class="view view1">                    
@@ -58,7 +64,10 @@
 			            <div class="draw">
 			            </div>
 			        </div>
-			        <div class="view view5"> </div>
+			        <div class="view view5">view5 </div>
+			        <div class="view view6">view6 </div>
+			        <div class="view view7">view7 </div>
+			        <div class="view view8">view8 </div>
 			    </div>
 			    <div class="layer layer4">
 			        <div class="view view1">                    
@@ -72,7 +81,10 @@
 			            <div class="draw">
 			            </div>
 			        </div>
-			        <div class="view view5"> </div>
+			        <div class="view view5">view5 </div>
+			        <div class="view view6">view6 </div>
+			        <div class="view view7">view7 </div>
+			        <div class="view view8">view8 </div>
 			    </div>
 			</div>
 		</div>
