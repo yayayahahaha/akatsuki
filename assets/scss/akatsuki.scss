@@ -106,11 +106,19 @@ $rwd: 768px;
             top: 0 * 800vh;
         }
         .view2 {
-        	/* self introduce part*/
             top: 1 * 800vh;
         }
         .view3 {
             top: 2 * 800vh;
+            img{
+                margin-top: 5%;
+                margin-left: 15%;
+                float: right;
+                &[alt="profile"]{
+                    width: 25%;
+                    float: left;
+                }
+            }
         }
         .view4 {
             top: 3 * 800vh;
@@ -164,7 +172,6 @@ $rwd: 768px;
             top: 0 * 400vh;
         }
         .view2 {
-        	/* self introduce part*/
             top: 1 * 400vh;
 
             img{
@@ -176,6 +183,11 @@ $rwd: 768px;
         }
         .view3 {
             top: 2 * 400vh;
+            img{
+                margin-top: 5%;
+                margin-right: 15%;
+                float: right;
+            }
         }
         .view4 {
             top: 3 * 400vh;
@@ -229,7 +241,6 @@ $rwd: 768px;
             top: 0 * 200vh;
         }
         .view2 {
-        	/* self introduce part*/
             top: 1 * 200vh;
         }
         .view3 {
@@ -287,7 +298,6 @@ $rwd: 768px;
             top: 0 * 100vh;
         }
         .view2 {
-        	/* self introduce part*/
             top: 1 * 100vh;
         }
         .view3 {
@@ -342,20 +352,22 @@ $rwd: 768px;
     .layer {
         position: relative;
         width: 100vw;
-        // height: 400vh;
         position: absolute;
         top: 0px;
         left: 0px;
         @include transform-origin(50%, 50vh);
 
-
-      	span.show_color{
-      		color: rgba(0,0,0,0.5);
-      	}
-      	span.hide_color{
-      		color: transparent;
-      	}
-        /* for span color end */
+        span{
+            &.show_color{
+                color: rgba(0,0,0,0.5);
+            }
+            &.hide_color{
+                color: transparent;
+            }
+            &.name_style{
+                font-weight: bolder;
+            }
+        }
 
         .view {
             position: absolute;
@@ -374,10 +386,16 @@ $rwd: 768px;
             		float: right;
             		margin-top: 10%;
             		margin-right: 5%;
-                    span.name_style{
-                        font-weight: bolder;
-                    }
             	}
+            }
+
+            &.view3 {
+                .content {
+                    width: 40%;
+                    float: left;
+                    margin-top: 24%;
+                    margin-left: 7.5%;
+                }
             }
 
             .content {
