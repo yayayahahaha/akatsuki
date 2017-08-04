@@ -8,15 +8,11 @@ document.addEventListener("DOMContentLoaded", function() {
 	return;
 });
 
-function messArray(array) {
-	var currentIndex = array.length,
-		temporaryValue, randomIndex;
-	while (0 !== currentIndex) {
-		randomIndex = Math.floor(Math.random() * currentIndex);
-		currentIndex -= 1;
-		temporaryValue = array[currentIndex];
-		array[currentIndex] = array[randomIndex];
-		array[randomIndex] = temporaryValue;
+function clickMaker(obj, number, callback) {
+	obj.onclick = function() {
+		$(".perspectiveView").animate({
+				scrollTop: document.all.forHeight.offsetHeight * number,
+			},
+			1000);
 	}
-	return array;
 }
