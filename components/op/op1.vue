@@ -27,9 +27,3 @@
 		<span class="hide_color">!</span>
 	</div>
 </template>
-<style></style>
-<script>
-	export default {
-
-	}
-</script>
