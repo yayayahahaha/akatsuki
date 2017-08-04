@@ -23,7 +23,7 @@
 			<div class="layer layer1">
 				<op1></op1>
 				<div class="view view2">
-					<intro2></intro2>
+					<intro1></intro1>
 				</div>
 				<div class="view view3">
 					<img src="/images/profile2.jpg" alt="profile">

@@ -418,14 +418,14 @@ $rwd: 768px;
                         width: 38%;
                         height: 58%;
                         @include background(
-                            linear-gradient(45deg,rgba(253,208,0,0.8), rgba(0,0,0,0)),
+                            linear-gradient(45deg,rgba(253,25,0,0.8), rgba(0,0,0,0)),
                             url('/images/svg.png') no-repeat
                         );
                         background-size: auto, 75% auto;
                         background-position: 0px 0px, 0px -20%;
                         &:hover{
                             &:after{
-                                background-color:rgba(253,208,0,0.5);
+                                background-color:rgba(253,25,0,0.5);
                             }
                         }
                     }
@@ -435,14 +435,14 @@ $rwd: 768px;
                         width: 58%;
                         height: 38%;
                         @include background(
-                            linear-gradient(45deg, rgba(194,248,79,0.8), rgba(0,0,0,0)),
+                            linear-gradient(45deg, rgba(0,248,0,0.8), rgba(0,0,0,0)),
                             url('/images/canvas.png') no-repeat
                         );
                         background-size: auto, 50% auto;
                         background-position: 0px 0px, 0px -20%;
                         &:hover{
                             &:after{
-                                background-color: rgba(194,248,79,0.5);
+                                background-color: rgba(0,248,0,0.5);
                             }
                         }
                     }
