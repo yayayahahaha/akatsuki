@@ -55,6 +55,7 @@
 					<div class="circle top">
 						<div class="circle_middle top">
 							<div class="circle_content right"></div>
+							<div class="content">Hello, here we are going to test something else</div>
 						</div>
 					</div>
 				</div>
@@ -99,6 +100,7 @@
 					<div class="circle right">
 						<div class="circle_middle right">
 							<div class="circle_content bottom"></div>
+							<div class="content">Hello, here we are going to test something else</div>
 						</div>
 					</div>
 				</div>
@@ -141,6 +143,7 @@
 					<div class="circle bottom">
 						<div class="circle_middle bottom">
 							<div class="circle_content left"></div>
+							<div class="content">Hello, here we are going to test something else</div>
 						</div>
 					</div>
 				</div>
@@ -179,6 +182,7 @@
 					<div class="circle left">
 						<div class="circle_middle left">
 							<div class="circle_content top"></div>
+							<div class="content">Hello, here we are going to test something else</div>
 						</div>
 					</div>
 				</div>
