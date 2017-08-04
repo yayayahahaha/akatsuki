@@ -51,7 +51,11 @@
 						</section>
 					</div>
 				</div>
-				<div class="view view6">view6 </div>
+				<div class="view view6">
+					<div class="circle top">
+						<div class="circle_content"></div>
+					</div>
+				</div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
 				<div class="view view9">view9 </div>
@@ -89,7 +93,11 @@
 						</section>
 					</div>
 				</div>
-				<div class="view view6">view6 </div>
+				<div class="view view6">
+					<div class="circle right">
+						<div class="circle_content"></div>
+					</div>
+				</div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
 				<div class="view view9">view9 </div>
@@ -125,7 +133,11 @@
 						</section>
 					</div>
 				</div>
-				<div class="view view6">view6 </div>
+				<div class="view view6">
+					<div class="circle bottom">
+						<div class="circle_content"></div>
+					</div>
+				</div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
 				<div class="view view9">view9 </div>
@@ -157,7 +169,11 @@
 						</section>
 					</div>
 				</div>
-				<div class="view view6">view6 </div>
+				<div class="view view6">
+					<div class="circle left">
+						<div class="circle_content"></div>
+					</div>
+				</div>
 				<div class="view view7">view7 </div>
 				<div class="view view8">view8 </div>
 				<div class="view view9">view9 </div>

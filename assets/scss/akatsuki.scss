@@ -18,6 +18,14 @@ $m-back-word-size: 32px;
 
 $rwd: 768px;
 
+$g1: rgb(0,157,133);
+$g2: rgb(70,176,53);
+$p1: rgb(217,80,151);
+$b1: rgb(0,169,228);
+$b2: rgb(0,134,205);
+$r1: rgb(232,57,47);
+$y1: rgb(253,208,0);
+
 .background-class{
 	position: absolute;
 	top: 0px;
@@ -486,6 +494,35 @@ $rwd: 768px;
                         vertical-align: middle;
                     }
                 }
+            }
+
+            &.view6{
+
+                $big-size: 300px;
+                .circle{
+                    border-radius:50%;
+                    border-style: solid;
+                    border: $big-size solid transparent;
+                    vertical-align: middle;
+                    display: inline-block;
+                    &.top{
+                        border-top-width: $big-size;
+                        border-top-color: pink;
+                    }
+                    &.right{
+                        border-right-width: $big-size;
+                        border-right-color: red;
+                    }
+                    &.bottom{
+                        border-bottom-width: $big-size;
+                        border-bottom-color: blue;
+                    }
+                    &.left{
+                        border-left-width: $big-size;
+                        border-left-color: green;
+                    }
+                }
+
             }
 
             .content {
