@@ -522,6 +522,14 @@ $y1: rgba(253,208,0, .8);
                 $middle-size: 30px;
                 $small-size: 100px;
 
+                position: relative;
+                .reason_content{
+                    position: absolute;
+                    top: 30px;
+                    left: 30px;
+                    color: rgba(0,0,0,0.5);
+                }
+
                 .circle{
                     border-radius:50%;
                     border-style: solid;

@@ -52,6 +52,7 @@
 					</div>
 				</div>
 				<div class="view view6">
+					<h1 class="reason_content shadow-text">為什麼我想加入Akatsuki?</h1>
 					<div class="circle top">
 						<div class="circle_middle top">
 							<div class="circle_content right"></div>
