@@ -6,7 +6,7 @@
 		<span class="hide_color name_style">膝</span>
 		<br>
 		<span class="hide_color">個</span>
-		<span class="show_color">性</span>
+		<span class="hide_color">性</span>
 		<span class="hide_color">隨</span>
 		<span class="hide_color">和</span>
 		<span class="hide_color">、</span>

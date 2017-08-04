@@ -43,6 +43,11 @@
 					<div class="content canvas">
 						<section>
 							<h2>Canvas</h2>
+							<div class="hide_n_show">
+								<p>keyframes</p>
+								<p>global composite operation</p>
+								<p>transform matrix</p>
+							</div>
 						</section>
 					</div>
 				</div>
@@ -77,6 +82,10 @@
 					<div class="content svg">
 						<section>
 							<h2>SVG</h2>
+							<div class="hide_n_show">
+								<p>標籤 &#060;path&#062; &#060;def&#062; 使用 </p>
+								<p>視域Viewport 概念</p>
+							</div>
 						</section>
 					</div>
 				</div>
@@ -109,6 +118,10 @@
 					<div class="content vue">
 						<section>
 							<h2>Vue</h2>
+							<div class="hide_n_show">
+								<p>Data binding</p>
+								<p>Component 的使用</p>
+							</div>
 						</section>
 					</div>
 				</div>
@@ -136,6 +149,11 @@
 					<div class="content nuxt">
 						<section>
 							<h2>NUXT</h2>
+							<div class="hide_n_show">
+								<p>前後端分離</p>
+								<p>Single Page Application</p>
+								<p>Server Side Rendering</p>
+							</div>
 						</section>
 					</div>
 				</div>
