@@ -60,7 +60,13 @@
 						</div>
 					</div>
 				</div>
-				<div class="view view7">view7 </div>
+				<div class="view view7">
+					<div class="background"></div>					
+					<section class="toC">
+						<h1>覺得自己可以帶給Akatsuki 什麼?</h1>
+						<p>here are some text</p>
+					</section>
+				</div>
 				<div class="view view8">view8 </div>
 				<div class="view view9">view9 </div>
 			</div>
@@ -105,7 +111,12 @@
 						</div>
 					</div>
 				</div>
-				<div class="view view7">view7 </div>
+				<div class="view view7">
+					<section class="toM">
+						<h1>覺得 Akatsuki 可以帶給自己什麼?</h1>
+						<p>here are some text</p>
+					</section>
+				</div>
 				<div class="view view8">view8 </div>
 				<div class="view view9">view9 </div>
 			</div>
@@ -148,7 +159,9 @@
 						</div>
 					</div>
 				</div>
-				<div class="view view7">view7 </div>
+				<div class="view view7">
+					
+				</div>
 				<div class="view view8">view8 </div>
 				<div class="view view9">view9 </div>
 			</div>
@@ -187,7 +200,9 @@
 						</div>
 					</div>
 				</div>
-				<div class="view view7">view7 </div>
+				<div class="view view7">
+					
+				</div>
 				<div class="view view8">view8 </div>
 				<div class="view view9">view9 </div>
 			</div>
