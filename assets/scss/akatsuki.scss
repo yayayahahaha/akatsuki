@@ -18,13 +18,35 @@ $m-back-word-size: 32px;
 
 $rwd: 768px;
 
-$g1: rgb(0,157,133);
-$g2: rgb(70,176,53);
-$p1: rgb(217,80,151);
-$b1: rgb(0,169,228);
-$b2: rgb(0,134,205);
-$r1: rgb(232,57,47);
-$y1: rgb(253,208,0);
+$g1: rgba(0,157,133, .8);
+$g2: rgba(70,176,53, .8);
+$p1: rgba(217,80,151, .8);
+$b1: rgba(0,169,228, .8);
+$b2: rgba(0,134,205, .8);
+$r1: rgba(232,57,47, .8);
+$y1: rgba(253,208,0, .8);
+
+@function g1 ($opacity: 0.8){
+    @return rgba(0,157,133, $opacity);
+}
+@function g2 ($opacity: 0.8){
+    @return rgba(70,176,53, $opacity);
+}
+@function p1 ($opacity: 0.8){
+    @return rgba(217,80,151, $opacity);
+}
+@function b1 ($opacity: 0.8){
+    @return rgba(0,169,228, $opacity);
+}
+@function b2 ($opacity: 0.8){
+    @return rgba(0,134,205, $opacity);
+}
+@function r1 ($opacity: 0.8){
+    @return rgba(232,57,47, $opacity);
+}
+@function y1 ($opacity: 0.8){
+    @return rgba(253,208,0, $opacity);
+}
 
 .background-class{
 	position: absolute;
@@ -188,7 +210,7 @@ $y1: rgb(253,208,0);
             top: 7 * 400vh;
         }
         .view9 {
-            top: 8 * 800vh;
+            top: 8 * 400vh;
         }
     }
     .layer3 {
@@ -219,7 +241,7 @@ $y1: rgb(253,208,0);
             top: 7 * 200vh;
         }
         .view9 {
-            top: 8 * 800vh;
+            top: 8 * 200vh;
         }
     }
     .layer4 {
@@ -250,7 +272,7 @@ $y1: rgb(253,208,0);
             top: 7 * 100vh;
         }
         .view9 {
-            top: 8 * 800vh;
+            top: 8 * 100vh;
         }
     }
 
@@ -320,8 +342,6 @@ $y1: rgb(253,208,0);
                     position: absolute;
                     color: white;
                     border-radius: 30px;
-
-                    @include text-shadow(1px 1px black);
 
                     &.html{
                         top: 0px;
@@ -498,31 +518,80 @@ $y1: rgb(253,208,0);
 
             &.view6{
 
-                $big-size: 300px;
+                $big-size: 200px;
+                $middle-size: 30px;
+                $small-size: 100px;
+
                 .circle{
                     border-radius:50%;
                     border-style: solid;
                     border: $big-size solid transparent;
                     vertical-align: middle;
                     display: inline-block;
+
                     &.top{
                         border-top-width: $big-size;
-                        border-top-color: pink;
+                        border-top-color: g1();
                     }
                     &.right{
                         border-right-width: $big-size;
-                        border-right-color: red;
+                        border-right-color: r1();
                     }
                     &.bottom{
                         border-bottom-width: $big-size;
-                        border-bottom-color: blue;
+                        border-bottom-color: y1();
                     }
                     &.left{
                         border-left-width: $big-size;
-                        border-left-color: green;
+                        border-left-color: b1();
+                    }
+
+                    .circle_middle{
+                        border-radius:50%;
+                        border-style: solid;
+                        border: $middle-size solid white;
+                        vertical-align: middle;
+                        display: inline-block;
+
+                        &.top{
+                            border-top-width: $middle-size;
+                        }
+                        &.right{
+                            border-right-width: $middle-size;
+                        }
+                        &.bottom{
+                            border-bottom-width: $middle-size;
+                        }
+                        &.left{
+                            border-left-width: $middle-size;
+                        }
+
+                        .circle_content{
+                            border-radius:50%;
+                            border-style: solid;
+                            border: $small-size solid transparent;
+                            vertical-align: middle;
+                            display: inline-block;
+
+                            &.top{
+                                border-top-width: $small-size;
+                                border-top-color: g1(0.5);
+                            }
+                            &.right{
+                                border-right-width: $small-size;
+                                border-right-color: r1(0.5);
+                            }
+                            &.bottom{
+                                border-bottom-width: $small-size;
+                                border-bottom-color: y1(0.5);
+                            }
+                            &.left{
+                                border-left-width: $small-size;
+                                border-left-color: b1(0.5);
+                            }
+                        }
                     }
                 }
-
             }
 
             .content {
@@ -574,4 +643,7 @@ $y1: rgb(253,208,0);
             background-color: #444;
         }
     }
+}
+.shadow-text{
+    @include text-shadow(1px 1px black);
 }

@@ -29,7 +29,7 @@
 					<img src="/images/profile2.jpg" alt="profile">
 				</div>
 				<div class="view view4">
-					<div class="content html">
+					<div class="content shadow-text html">
 						<section>
 							<h2>HTML</h2>
 							<div class="hide_n_show">
@@ -40,7 +40,7 @@
 					</div>
 				</div>
 				<div class="view view5">
-					<div class="content canvas">
+					<div class="content shadow-text canvas">
 						<section>
 							<h2>Canvas</h2>
 							<div class="hide_n_show">
@@ -53,7 +53,9 @@
 				</div>
 				<div class="view view6">
 					<div class="circle top">
-						<div class="circle_content"></div>
+						<div class="circle_middle top">
+							<div class="circle_content right"></div>
+						</div>
 					</div>
 				</div>
 				<div class="view view7">view7 </div>
@@ -70,7 +72,7 @@
 					<img src="/images/timeline.png" alt="timeline">
 				</div>
 				<div class="view view4">
-					<div class="content css">
+					<div class="content shadow-text css">
 						<section>
 							<h2>CSS</h2>
 							<div class="hide_n_show">
@@ -83,7 +85,7 @@
 					</div>
 				</div>
 				<div class="view view5">
-					<div class="content svg">
+					<div class="content shadow-text svg">
 						<section>
 							<h2>SVG</h2>
 							<div class="hide_n_show">
@@ -95,7 +97,9 @@
 				</div>
 				<div class="view view6">
 					<div class="circle right">
-						<div class="circle_content"></div>
+						<div class="circle_middle right">
+							<div class="circle_content bottom"></div>
+						</div>
 					</div>
 				</div>
 				<div class="view view7">view7 </div>
@@ -111,7 +115,7 @@
 					<info1></info1>
 				</div>
 				<div class="view view4">
-					<div class="content js">
+					<div class="content shadow-text js">
 						<section>
 							<h2>Javascript</h2>
 							<div class="hide_n_show">
@@ -123,7 +127,7 @@
 					</div>
 				</div>
 				<div class="view view5">
-					<div class="content vue">
+					<div class="content shadow-text vue">
 						<section>
 							<h2>Vue</h2>
 							<div class="hide_n_show">
@@ -135,7 +139,9 @@
 				</div>
 				<div class="view view6">
 					<div class="circle bottom">
-						<div class="circle_content"></div>
+						<div class="circle_middle bottom">
+							<div class="circle_content left"></div>
+						</div>
 					</div>
 				</div>
 				<div class="view view7">view7 </div>
@@ -151,14 +157,14 @@
 					<info2></info2>
 				</div>
 				<div class="view view4">
-					<div class="content skill">
+					<div class="content shadow-text skill">
 						<section>
 							<h1>Skill 技能欄</h1>
 						</section>
 					</div>
 				</div>
 				<div class="view view5">
-					<div class="content nuxt">
+					<div class="content shadow-text nuxt">
 						<section>
 							<h2>NUXT</h2>
 							<div class="hide_n_show">
@@ -171,7 +177,9 @@
 				</div>
 				<div class="view view6">
 					<div class="circle left">
-						<div class="circle_content"></div>
+						<div class="circle_middle left">
+							<div class="circle_content top"></div>
+						</div>
 					</div>
 				</div>
 				<div class="view view7">view7 </div>
