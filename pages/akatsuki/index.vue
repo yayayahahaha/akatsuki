@@ -56,7 +56,7 @@
 					<div class="circle top">
 						<div class="circle_middle top">
 							<div class="circle_content right"></div>
-							<div class="content">Hello, here we are going to test something else</div>
+							<div class="content">「能否讓自己也感動」</div>
 						</div>
 					</div>
 				</div>
@@ -64,7 +64,17 @@
 					<div class="background"></div>					
 					<section class="toC">
 						<h1>覺得自己可以帶給Akatsuki 什麼?</h1>
-						<p>here are some text</p>
+						<br>
+						<p>css 切版與渲染資料是小case</p>
+						<p>js 小工具開發與除錯已是常態</p>
+						<br>
+						<p>網頁前端工程的特效與樣式開發</p>
+						<p>各類遊戲官網的協力開發與製作</p>
+						<p>前端渲染引擎的協作與新技術研究</p>
+						<br>
+						<p>扣掉技術</p>
+						<p>自認是個很好相處的人</p>
+						<p>所以可以帶給Akatsuki 一個很好相處的合作夥伴 :D</p>
 					</section>
 				</div>
 				<div class="view view8">view8 </div>
@@ -107,14 +117,23 @@
 					<div class="circle right">
 						<div class="circle_middle right">
 							<div class="circle_content bottom"></div>
-							<div class="content">Hello, here we are going to test something else</div>
+							<div class="content">遊戲的力量，好比放大鏡。對事物的正反兩面，都具備了放大的可能。</div>
 						</div>
 					</div>
 				</div>
 				<div class="view view7">
 					<section class="toM">
 						<h1>覺得 Akatsuki 可以帶給自己什麼?</h1>
-						<p>here are some text</p>
+						<br>
+						<p>透過早上的Game Intro, 可以讓我知道最新的遊戲相關新知!</p>
+						<p>常態性地處在日英語環境，一 定 會 進 步 </p>
+						<p>非常舒適的工作氛圍，鞋子的部分讓我好驚訝</p>
+						<br>
+						<p>他國風格的前端技術風格學習和心法</p>
+						<p>快速開發下，前端技術的磨練與進步</p>
+						<br>
+						<p>想去上班的動力，和</p>
+						<p>透過娛樂改變世界的機會</p>
 					</section>
 				</div>
 				<div class="view view8">view8 </div>
@@ -155,7 +174,7 @@
 					<div class="circle bottom">
 						<div class="circle_middle bottom">
 							<div class="circle_content left"></div>
-							<div class="content">Hello, here we are going to test something else</div>
+							<div class="content">認真的，開心地過著每一天。我們認為那才是人生的幸福狀態。</div>
 						</div>
 					</div>
 				</div>
@@ -196,7 +215,7 @@
 					<div class="circle left">
 						<div class="circle_middle left">
 							<div class="circle_content top"></div>
-							<div class="content">Hello, here we are going to test something else</div>
+							<div class="content">遊戲在娛樂方面，以及遊戲在服務方面所蘊含的無限可能</div>
 						</div>
 					</div>
 				</div>

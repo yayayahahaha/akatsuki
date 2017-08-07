@@ -537,6 +537,7 @@ $y1: rgba(253,208,0, .8);
                     vertical-align: middle;
                     display: inline-block;
 
+
                     &.top{
                         border-top-width: $big-size;
                         border-top-color: g1();
@@ -564,15 +565,15 @@ $y1: rgba(253,208,0, .8);
 
                         .content{
                             position: absolute;
-                            outline: 1px solid blue;
                             height: auto;
+                            text-align: justify;
                         }
 
                         &.top{
                             border-top-width: $middle-size;
                             .content{
                                 width: 250px;
-                                top: -200px;
+                                top: -150px;
                                 left: -25px;
                             }
                         }
@@ -580,8 +581,8 @@ $y1: rgba(253,208,0, .8);
                             border-right-width: $middle-size;
                             .content{
                                 width: 150px;
-                                top: -25px;
-                                left: 240px;
+                                top: -40px;
+                                left: 250px;
                             }
                         }
                         &.bottom{
@@ -714,4 +715,8 @@ $y1: rgba(253,208,0, .8);
 }
 .shadow-text{
     @include text-shadow(1px 1px black);
+}
+
+.shadow-text-white{
+    @include text-shadow(1px 1px white);
 }
