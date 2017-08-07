@@ -668,6 +668,14 @@ $y1: rgba(253,208,0, .8);
                 }
             }
 
+            &.view9{
+                .content{
+                    max-width: 960px;
+                    font-size: 1rem;
+                    section{}
+                }
+            }
+
             .content {
                 pointer-events: none;
                 text-align: center;
@@ -724,4 +732,7 @@ $y1: rgba(253,208,0, .8);
 
 .shadow-text-white{
     @include text-shadow(1px 1px white);
+}
+.i_wanna_be{
+    font-weight: bolder;
 }

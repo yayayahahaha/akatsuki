@@ -66,7 +66,9 @@
 				<div class="view view8">
 
 				</div>
-				<div class="view view9">view9 </div>
+				<div class="view view9">
+					
+				</div>
 			</div>
 			<div class="layer layer2">
 				<op2></op2>
@@ -127,7 +129,9 @@
 				<div class="view view8">
 
 				</div>
-				<div class="view view9">view9 </div>
+				<div class="view view9">
+					
+				</div>
 			</div>
 			<div class="layer layer3">
 				<op3></op3>
@@ -191,14 +195,15 @@
 						<p>我很喜歡Akatsuki 給人的感覺和用遊戲改變世界的理念</p>
 						<p>也很喜歡儘管在輕鬆的環境下仍能保有專業的那份從容</p>
 						<br>
-						<p>我想成為那種人</p>
+						<p class="i_wanna_be">我想成為那種人</p>
 						<br>
 						<p>希望自己可以驕傲地說我是Akatsuki 的一份子</p>
 						<p>正和一群來自世界各地的人們起改變世界</p>
 						<p>希望可以給我一個機會，謝謝</p>
 					</div>
 				</div>
-				<div class="view view9">view9 </div>
+				<div class="view view9">
+				</div>
 			</div>
 			<div class="layer layer4">
 				<op4></op4>
@@ -241,7 +246,25 @@
 				<div class="view view8">
 
 				</div>
-				<div class="view view9">view9 </div>
+				<div class="view view9">
+					<div class="content">
+						<h1>技術使用 and 相關連結</h1>
+						<p>純css 的parallax 效果展現 </p>
+						<p>各式css 樣式效果展現</p>
+						<p>隨機文字背景與重點文字顏色變化( a k a t s u k i )</p>
+						<p>vue 的component 技術展現</p>
+						<p>nuxt 的渲染技術呈現</p>
+						<br>
+						<hr>
+						<br>
+						<section>
+							<p>此頁面的github: <a href="https://github.com/yayayahahaha/nuxt">https://github.com/yayayahahaha/nuxt</a></p>
+							<p>個人履歷: <a href="https://www.cakeresume.com/flyc">CakeResume</a></p>
+							<p>個人作品集網站: <a href="https://yayayahahaha.github.io/wonder/">Wonder</a></p>
+							<p>Codepen: <a href="https://codepen.io/FlyC/pens/popular/">Codepen</a></p>
+						</section>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
