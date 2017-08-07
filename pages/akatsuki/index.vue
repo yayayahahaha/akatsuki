@@ -61,23 +61,11 @@
 					</div>
 				</div>
 				<div class="view view7">
-					<div class="background"></div>					
-					<section class="toC">
-						<h1>覺得自己可以帶給Akatsuki 什麼?</h1>
-						<br>
-						<p>css 切版與渲染資料是小case</p>
-						<p>js 小工具開發與除錯已是常態</p>
-						<br>
-						<p>網頁前端工程的特效與樣式開發</p>
-						<p>各類遊戲官網的協力開發與製作</p>
-						<p>前端渲染引擎的協作與新技術研究</p>
-						<br>
-						<p>扣掉技術</p>
-						<p>自認是個很好相處的人</p>
-						<p>所以可以帶給Akatsuki 一個很好相處的合作夥伴 :D</p>
-					</section>
+					<div class="background"></div>
 				</div>
-				<div class="view view8">view8 </div>
+				<div class="view view8">
+
+				</div>
 				<div class="view view9">view9 </div>
 			</div>
 			<div class="layer layer2">
@@ -136,7 +124,9 @@
 						<p>透過娛樂改變世界的機會</p>
 					</section>
 				</div>
-				<div class="view view8">view8 </div>
+				<div class="view view8">
+
+				</div>
 				<div class="view view9">view9 </div>
 			</div>
 			<div class="layer layer3">
@@ -179,9 +169,35 @@
 					</div>
 				</div>
 				<div class="view view7">
-					
+					<section class="toC">
+						<h1>覺得自己可以帶給Akatsuki 什麼?</h1>
+						<br>
+						<p>css 切版與渲染資料是小case</p>
+						<p>js 小工具開發與除錯已是常態</p>
+						<br>
+						<p>網頁前端工程的特效與樣式開發</p>
+						<p>各類遊戲官網的協力開發與製作</p>
+						<p>前端渲染引擎的協作與新技術研究</p>
+						<br>
+						<p>扣掉技術</p>
+						<p>自認是個很好相處的人</p>
+						<p>所以可以帶給Akatsuki 一個很好相處的合作夥伴 :D</p>
+					</section>
 				</div>
-				<div class="view view8">view8 </div>
+				<div class="view view8">
+					<div class="content">
+						<p>"如果是工程師，大部分是獨立作業沒有錯" - Jerry Tu</p>
+						<p>不知道為什麼，看到這句話的時候笑了</p>
+						<p>我很喜歡Akatsuki 給人的感覺和用遊戲改變世界的理念</p>
+						<p>也很喜歡儘管在輕鬆的環境下仍能保有專業的那份從容</p>
+						<br>
+						<p>我想成為那種人</p>
+						<br>
+						<p>希望自己可以驕傲地說我是Akatsuki 的一份子</p>
+						<p>正和一群來自世界各地的人們起改變世界</p>
+						<p>希望可以給我一個機會，謝謝</p>
+					</div>
+				</div>
 				<div class="view view9">view9 </div>
 			</div>
 			<div class="layer layer4">
@@ -222,7 +238,9 @@
 				<div class="view view7">
 					
 				</div>
-				<div class="view view8">view8 </div>
+				<div class="view view8">
+
+				</div>
 				<div class="view view9">view9 </div>
 			</div>
 		</div>
