@@ -1,7 +1,7 @@
 # a resume for Akatsuki !
-npm install
+``npm install
 
-npm run dev
+npm run dev``
 
 link to: http://localhost:8080/akatsuki
 
