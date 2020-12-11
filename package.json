@@ -16,6 +16,6 @@
  "dependencies": {
   "axios": "^0.18.0",
   "lodash": "^4.17.19",
-  "nuxt": "^1.0.0-rc2"
+  "nuxt": "^2.14.11"
  }
 }
