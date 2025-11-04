@@ -14,8 +14,6 @@
   "dev": "nuxt"
  },
  "dependencies": {
-  "axios": "^0.18.0",
-  "lodash": "^4.17.19",
-  "nuxt": "^2.14.11"
+  "nuxt": "^4.2.0"
  }
 }
