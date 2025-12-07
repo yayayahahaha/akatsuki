@@ -1,19 +1,25 @@
 {
- "name": "nuxt",
- "version": "1.0.0",
- "main": "index.js",
- "license": "MIT",
- "start": "http-server -a 0.0.0.0 -p 8080",
- "config": {
-  "nuxt": {
-   "port": 8080,
-   "host": "0.0.0.0"
+  "name": "akatsuki",
+  "version": "1.0.0",
+  "description": "npm install",
+  "main": "nuxt.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayayahahaha/akatsuki.git"
+  },
+  "author": "flyc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yayayahahaha/akatsuki/issues"
+  },
+  "homepage": "https://github.com/yayayahahaha/akatsuki#readme",
+  "overrides": {
+    "node-forge": "^1.3.2"
+  },
+  "dependencies": {
+    "nuxt": "^4.2.1"
   }
- },
- "scripts": {
-  "dev": "nuxt"
- },
- "dependencies": {
-  "nuxt": "^4.2.0"
- }
 }
